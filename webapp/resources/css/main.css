@@ -1,0 +1,28 @@
+div.navbar.navbar-default{
+}
+
+div#content{
+     height: auto;
+     margin-top: 50px;
+     width: 100%;
+ }
+
+div.jdbc-content{
+    height: auto;
+    margin-top: 50px;
+    width: 100%;
+}
+
+div.grid{
+    margin: 5px;
+}
+
+.prod-image{
+    display: block;
+    text-align: center
+}
+
+.prod-desc{
+    display: block;
+    text-align: center
+}
